@@ -1,1 +1,6 @@
 # MGXG
+
+## address
+
+- Contract address: 0xD21a1f1FcEC9479d38B570A2ecA3277B1b2A959A;
+- Contract Owner: 0xFC780D12f9f9Eac233D6B468325F16cB1976150a
